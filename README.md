@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Mikhail Makeikin - @hkeper
-- 👀 I’m interested in 
+- 👋 Hi, I’m Mikhail Makeikin - @hkeper, work as automation QA, live in Minsk, Belarus
+- 👀 I’m interested in quality, android development
 - 🌱 I’m currently learning Android development
 - 📫 How to reach me:
   - LinkedIn - https://goo-gl.su/4sm7Yg6
