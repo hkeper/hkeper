@@ -2,7 +2,7 @@
 - 👀 I’m interested in quality, android development
 - 🌱 I’m currently learning Android development
 - 📫 How to reach me:
-  - LinkedIn - https://goo-gl.su/4sm7Yg6
+  - LinkedIn - https://bit.ly/3loKQVy
   - Telegram - @MacMih
 
 <!---
